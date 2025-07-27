@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Me llamo Adriel Barrientos 🐈</h1>
-<p>📖 Soy estudiante de Ingeniería en Informática en la Universidad Mayor, actualmente en mi último año de carrera. Durante mi formación, he adquirido conocimientos sólidos en desarrollo de software, especialmente en desarrollo web y móvil, lo que me ha permitido participar en varios proyectos académicos y personales.
+<p>📖 Soy estudiante de último año de Ingeniería en Informática en la Universidad Mayor, actualmente en mi último año de carrera. Durante mi formación, he adquirido conocimientos sólidos en desarrollo de software, especialmente en desarrollo web y móvil, lo que me ha permitido participar en varios proyectos académicos y personales.
 
 💻 Me apasiona la tecnología y la manera en que esta puede mejorar la vida de las personas. Soy una persona que le interesa aprender de diversas materias e integrar mis conocimientos en proyectos. ¡Me gustan los desafíos!
 
