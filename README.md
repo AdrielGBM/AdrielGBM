@@ -33,7 +33,7 @@
 
 ![vercel](https://img.shields.io/badge/Vercel-2a273f?style=for-the-badge&logo=vercel&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-9ccfd8?style=for-the-badge&logo=docker&logoColor=2a273f)
-## Aprendiendo...
+## Y estoy aprendiendo...
 ![astro](https://img.shields.io/badge/Astro-2a273f?style=for-the-badge&logo=astro&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind-3e8fb0?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn](https://img.shields.io/badge/shadcn%2Fui-2a273f?style=for-the-badge&logo=shadcnui&logoColor=white)
