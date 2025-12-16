@@ -10,7 +10,6 @@
 ![javascript](https://img.shields.io/badge/JavaScript-f6c177?style=for-the-badge&logo=javascript&logoColor=2a273f)
 ![typescript](https://img.shields.io/badge/TypeScript-3e8fb0?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3e8fb0?style=for-the-badge&logo=python&logoColor=white)
-<!--![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)-->
 ### Desarrollo Front-End
 ![html](https://img.shields.io/badge/HTML-ea9a97?style=for-the-badge&logo=html5&logoColor=2a273f)
 ![css](https://img.shields.io/badge/CSS-3e8fb0?style=for-the-badge&logo=css&logoColor=white)
@@ -19,11 +18,9 @@
 ![react](https://img.shields.io/badge/React-3e8fb0?style=for-the-badge&logo=react&logoColor=white)
 ![next](https://img.shields.io/badge/next.js-2a273f?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![mui](https://img.shields.io/badge/Material%20UI-3e8fb0?style=for-the-badge&logo=mui&logoColor=white)
-<!--![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)-->
 <!--### Desarrollo back-end
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)-->
+![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logoColor=white)-->
 ### Herramientas
 ![git](https://img.shields.io/badge/GIT-ea9a97?style=for-the-badge&logo=git&logoColor=2a273f)
 ![pnpm](https://img.shields.io/badge/pnpm-f6c177?style=for-the-badge&logo=pnpm&logoColor=2a273f)
@@ -43,6 +40,7 @@
 
 ![prisma](https://img.shields.io/badge/Prisma-31748f?style=for-the-badge&logo=Prisma&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-31748f?style=for-the-badge&logo=postgresql&logoColor=white)
+![google-cloud](https://img.shields.io/badge/Google%20Cloud-31748f?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ## Encuéntrame en...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3e8fb0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AdrielGBM/)
 [![GitHub](https://img.shields.io/badge/GitHub-2a273f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrielGBM)
