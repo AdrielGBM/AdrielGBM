@@ -18,9 +18,10 @@
 ![react](https://img.shields.io/badge/React-3e8fb0?style=for-the-badge&logo=react&logoColor=white)
 ![next](https://img.shields.io/badge/next.js-2a273f?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![mui](https://img.shields.io/badge/Material%20UI-3e8fb0?style=for-the-badge&logo=mui&logoColor=white)
-<!--### Desarrollo back-end
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logoColor=white)-->
+### Desarrollo Back-End
+![nest](https://img.shields.io/badge/-NestJs-eb6f92?style=for-the-badge&logo=nestjs&logoColor=white)
+![prisma](https://img.shields.io/badge/Prisma-31748f?style=for-the-badge&logo=Prisma&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-31748f?style=for-the-badge&logo=postgresql&logoColor=white)
 ### Herramientas
 ![git](https://img.shields.io/badge/GIT-ea9a97?style=for-the-badge&logo=git&logoColor=2a273f)
 ![pnpm](https://img.shields.io/badge/pnpm-f6c177?style=for-the-badge&logo=pnpm&logoColor=2a273f)
@@ -30,17 +31,13 @@
 
 ![vercel](https://img.shields.io/badge/Vercel-2a273f?style=for-the-badge&logo=vercel&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-9ccfd8?style=for-the-badge&logo=docker&logoColor=2a273f)
+![google-cloud](https://img.shields.io/badge/Google%20Cloud-31748f?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ## Y estoy aprendiendo...
 ![astro](https://img.shields.io/badge/Astro-2a273f?style=for-the-badge&logo=astro&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind-3e8fb0?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn](https://img.shields.io/badge/shadcn%2Fui-2a273f?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-![nest](https://img.shields.io/badge/-NestJs-eb6f92?style=for-the-badge&logo=nestjs&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-eb6f92?style=for-the-badge&logo=n8n&logoColor=white)
-
-![prisma](https://img.shields.io/badge/Prisma-31748f?style=for-the-badge&logo=Prisma&logoColor=white)
-![postgresql](https://img.shields.io/badge/postgresql-31748f?style=for-the-badge&logo=postgresql&logoColor=white)
-![google-cloud](https://img.shields.io/badge/Google%20Cloud-31748f?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ## Encuéntrame en...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3e8fb0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AdrielGBM/)
 [![GitHub](https://img.shields.io/badge/GitHub-2a273f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrielGBM)
