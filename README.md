@@ -31,13 +31,16 @@
 
 ![vercel](https://img.shields.io/badge/Vercel-2a273f?style=for-the-badge&logo=vercel&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-9ccfd8?style=for-the-badge&logo=docker&logoColor=2a273f)
-![google-cloud](https://img.shields.io/badge/Google%20Cloud-31748f?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)
+![google-cloud](https://img.shields.io/badge/Google%20Cloud-31748f?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ## Y estoy aprendiendo...
 ![astro](https://img.shields.io/badge/Astro-2a273f?style=for-the-badge&logo=astro&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind-3e8fb0?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn](https://img.shields.io/badge/shadcn%2Fui-2a273f?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ![n8n](https://img.shields.io/badge/n8n-eb6f92?style=for-the-badge&logo=n8n&logoColor=white)
+
+![rust](https://img.shields.io/badge/Rust-2a273f?style=for-the-badge&logo=rust&logoColor=white)
+[![Iced](https://img.shields.io/badge/Iced-31748f?style=for-the-badge&logo=Iced&logoColor=fff)](#)
 ## Encuéntrame en...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3e8fb0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AdrielGBM/)
 [![GitHub](https://img.shields.io/badge/GitHub-2a273f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrielGBM)
