@@ -7,7 +7,7 @@
 ![typescript](https://img.shields.io/badge/TypeScript-5e81ac?style=for-the-badge&logo=typescript&logoColor=eceff4)
 ![python](https://img.shields.io/badge/Python-5e81ac?style=for-the-badge&logo=python&logoColor=eceff4)
 
-### Desarrollo Front-End
+### Desarrollo front-end
 ![html](https://img.shields.io/badge/HTML-bf616a?style=for-the-badge&logo=html5&logoColor=eceff4)
 ![css](https://img.shields.io/badge/CSS-5e81ac?style=for-the-badge&logo=css&logoColor=eceff4)
 ![sass](https://img.shields.io/badge/SASS-b48ead?style=for-the-badge&logo=sass&logoColor=eceff4)
@@ -19,7 +19,7 @@
 ![shadcn](https://img.shields.io/badge/shadcn/ui-2e3440?style=for-the-badge&logo=shadcnui&logoColor=eceff4)
 ![redux](https://img.shields.io/badge/Redux-b48ead?style=for-the-badge&logo=redux&logoColor=eceff4)
 
-### Desarrollo Back-End
+### Desarrollo back-end
 ![nest](https://img.shields.io/badge/NestJS-bf616a?style=for-the-badge&logo=nestjs&logoColor=eceff4)
 ![prisma](https://img.shields.io/badge/Prisma-4c566a?style=for-the-badge&logo=Prisma&logoColor=eceff4)
 ![typeorm](https://img.shields.io/badge/TypeORM-d08770?style=for-the-badge&logo=typeorm&logoColor=eceff4)
